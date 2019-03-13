@@ -1,0 +1,10 @@
+.arrow-down {
+    margin-right: 51px;
+}
+
+.fa-angle-double-down {
+    position: absolute;
+    font-size: 40px;
+    bottom: 1%;
+
+}
